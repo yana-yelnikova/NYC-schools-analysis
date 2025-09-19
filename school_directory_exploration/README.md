@@ -1,4 +1,4 @@
-# Day 2 – Python Data Exploration
+# Python Data Exploration
 
 ### 🎯 Project Objective
 
