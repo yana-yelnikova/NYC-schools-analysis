@@ -11,7 +11,9 @@ This project involved exploring a real-world dataset on NYC High School Director
 1.  **Dataset loaded and cleaned:** The NYC High School Directory dataset was successfully loaded into a pandas DataFrame. Column names were cleaned by converting them to lowercase, replacing spaces with underscores (`_`), and removing special characters.
 2.  **Filtering and analysis performed:** The dataset was filtered to focus on schools in Brooklyn. Key questions regarding the number of unique schools and Grade 9 entry were answered using appropriate methods.
 3.  **Data grouped and summarized:** The data was grouped by borough to count the number of schools and calculate the average number of students. A summary of the `grade_span_max` was also generated for each borough.
-4.  **Visualizations created:** A bar chart was created to visualize the number of schools per borough.
+4.  **Visualizations created:** Two bar charts were created:
+    * [Number of Schools per Borough](school_directory_exploration/visuals/Number_of_Schools_per_Borough.png) 
+    * [Number of Students per Borough](school_directory_exploration/visuals/Number_of_Students_per_Borough.png) 
 5.  **Key insights shared:** Three key insights were derived from the analysis and are detailed below.
 
 ---
