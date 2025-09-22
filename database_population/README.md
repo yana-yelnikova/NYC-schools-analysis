@@ -15,3 +15,8 @@ The objective of this project is to evaluate, clean, and integrate a real-world 
     * Normalized column headers and dropped irrelevant fields.
 3.  **Schema Design:** The final columns for upload were chosen, and a schema for the table was designed to accommodate the cleaned data.
 4.  **Data Appending Script:** A Python script was written to connect to the PostgreSQL database. The script used `psycopg2` or `sqlalchemy` to append the cleaned data to the designated table using parameterized queries to ensure data integrity and security.
+
+###  Deliverables
+
+* `cleaned_sat_results.csv` - The final, cleaned dataset ready for upload.
+* `sat_modeling.ipynb` – The Jupyter Notebook containing the data cleaning and database insertion script.
